@@ -8,7 +8,7 @@
 // All Rights Reserved.
 // Confidential and Proprietary - Qualcomm Technologies, Inc.
 //=============================================================================
-
+ 
 /* Header Version Info */
 {
    0x0310, /* Chromatix Version */
